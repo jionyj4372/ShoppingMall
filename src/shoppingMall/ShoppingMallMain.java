@@ -3,7 +3,8 @@ package shoppingMall;
 import java.util.Scanner;
 
 public class ShoppingMallMain {
-
+	
+	// Java-DB연동 쇼핑몰 세미프로젝트
 	public static void main(String[] args) {
 
 		// MemberDTO 객체
